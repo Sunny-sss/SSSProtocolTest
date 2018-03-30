@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
 
 
 
-  s.source_files  = "SSSProtocolTest/*.{h,m}"
+  s.source_files  = "SSSProtocolTest/SSSProtocolTest"
   s.exclude_files = "Classes/Exclude"
 
 
